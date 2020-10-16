@@ -21,10 +21,9 @@
         "uuid": "44ae5892-40a5-4483-a181-28e1c38645d6",
         "concepts": [
           "basics",
-          "constants",
+          "constants-and-variables",
           "functions",
-          "type-annotations",
-          "variables"
+          "type-annotations"
         ],
         "prerequisites": []
       },
